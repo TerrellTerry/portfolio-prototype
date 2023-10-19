@@ -1,12 +1,21 @@
 # portfolio-prototype
 ## The Plan
+- Maybe just make a forum for a game that I'm making and scrap the other idea for now for a future learning goal.
 - Recreate my portfolio website with additional features and a better front-end.
 ## Proposal
-- To challenge my ability to create front-end designs and utilize front-end frameworks in a meaningful way.
+> For a long time, it feels as though I have never spent enough time on my portfolio website. Throughout this past year, I have been redesigning my portfolio multiple times, attempting to find the right design.
+>
+> This time I believe I have the right idea and additionally, this allows me to challenge my ability to create front-end designs and utilize front-end frameworks in a meaningful way.
+>
+> 
 ### Problem Statement
-
+> My current design for my website (https://terrellterry.online) doesn't have much eye catching detail as I wished it would. It also doesn't have a functional blog page.
 ### Technical Solution
+- build portfolio
 ## User Stories
+| As a | I want to | So that |
+| ---- | --------- | ------- |
+|  |
 ## Glossary
 ## Brainstorming
 ### Theme Ideas (* means most likely)
