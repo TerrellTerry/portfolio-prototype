@@ -1,0 +1,17 @@
+{
+  "needleEditor": {
+    "enabled": true,
+    "components": true,
+    "materials": true,
+    "sceneCamera": false
+  },
+  "meta": null,
+  "absolutePath": "https://localhost:3000",
+  "sceneName": "Skybox_P",
+  "deployOnly": false,
+  "generator": "Unity 2021.3.14f1, Needle Engine Integration @3.20.1",
+  "gzip": false,
+  "allowHotReload": true,
+  "useRapier": true,
+  "license": null
+}
